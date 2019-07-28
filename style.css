@@ -1,1 +1,33 @@
-style.css
+body {
+	font-family: 'Bungee Outline', cursive;
+	margin: 0
+}
+
+.menu {
+	background-color: white;
+}
+
+.apero {
+	background-color: #7ecfc0;
+}
+
+.entree {
+	background-color: #ec8f6a;
+}
+
+.plat {
+	background-color: #daa592;
+}
+
+.dessert {
+	background-color: #faf5ef;
+}
+
+h1 {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 40px;
+}
+
